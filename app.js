@@ -1,4 +1,3 @@
-<script>
 
   alert('working...');
   
@@ -157,4 +156,4 @@ window.addEventListener("DOMContentLoaded", (event) => {
       */
 });
 
-</script>
+
