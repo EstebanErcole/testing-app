@@ -1,4 +1,6 @@
+<script>
 
+  
 window.addEventListener("DOMContentLoaded", (event) => {
   // Split text into spans
   let typeSplit = new SplitType("[text-split]", {
@@ -153,3 +155,5 @@ window.addEventListener("DOMContentLoaded", (event) => {
       }
       */
 });
+
+</script>
