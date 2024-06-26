@@ -1,5 +1,6 @@
 <script>
 
+  alert('working...');
   
 window.addEventListener("DOMContentLoaded", (event) => {
   // Split text into spans
